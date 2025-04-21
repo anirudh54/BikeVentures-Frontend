@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.app {
+  min-height: 100vh;
+  background-color: #f9fafb;
+}
+
+.home-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1.5rem 1rem;
+}
+
+.home-container h1 {
+  font-size: 1.875rem;
+  font-weight: 700;
+  color: #111827;
+  margin-bottom: 1rem;
+}
